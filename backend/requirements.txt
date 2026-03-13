@@ -1,0 +1,15 @@
+fastapi
+uvicorn
+python-multipart
+
+bcrypt
+PyJWT
+
+requests
+
+motor
+pymongo
+
+python-dotenv
+
+google-generativeai
